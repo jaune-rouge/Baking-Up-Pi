@@ -1,5 +1,5 @@
 # Baking-Up-Pi
-In the computational sense
+In the computational sense.
 
 Inspiration:
 
